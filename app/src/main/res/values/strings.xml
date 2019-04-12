@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicativo</string>
+    <string name="hello_world">Olá Mundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="tela_inicial">Tela Inicial</string>
+    <string name="botao">Inicio</string>
+    <string name="imagem">Imagem</string>
+    <string name="teste">Teste</string>
+    <string name="switch1">Switch</string>
+</resources>
