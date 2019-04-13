@@ -7,4 +7,17 @@
     <string name="imagem">Imagem</string>
     <string name="teste">Teste</string>
     <string name="switch1">Switch</string>
+    <string name="adotar">ADOTAR</string>
+    <string name="ajudar">AJUDAR</string>
+    <string name="cadastrar_animal">CADASTRAR ANIMAL</string>
+    <string name="ola">Olá!</string>
+    <string name="bem_vindo_ao_meau_1">Bem vindo ao Meau!</string>
+    <string name="bem_vindo_ao_meau_2">Aqui você pode adotar, doar e ajudar</string>
+    <string name="bem_vindo_ao_meau_3">cães e gatos com facilidade.</string>
+    <string name="bem_vindo_ao_meau_4">Qual o seu interesse?</string>
+    <string name="login">login</string>
+    <string name="logo_menu">logo_menu</string>
+    <string name="texto_menu_3" />
+    <string name="texto_menu_4">TextView</string>
+    <string name="title_activity_tela_adotar">tela_adotar</string>
 </resources>

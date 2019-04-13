@@ -2,5 +2,8 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#2E29C2</color>
+    <color name="colorAccent">#434343</color>
+    <color name="cor_botao">#FFD358</color>
+    <color name="cor_texto_login">#88C9BF</color>
+    <color name="cor_texto_menu">#757575</color>
 </resources>
