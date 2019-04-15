@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243488482799",
+    "firebase_url": "https://meauapp-10434.firebaseio.com",
+    "project_id": "meauapp-10434",
+    "storage_bucket": "meauapp-10434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243488482799:android:33741f8195597654",
+        "android_client_info": {
+          "package_name": "com.example.aplicativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243488482799-rkqh8bm8r3bi340slops8offf6kkeuso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LOWJ0ITwKCtCLnhbtTuP3uA_ZB1z-Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243488482799-rkqh8bm8r3bi340slops8offf6kkeuso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
