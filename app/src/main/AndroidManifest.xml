@@ -3,8 +3,6 @@
     package="com.example.aplicativo">
 
     <application
-        android:debuggable="true"
-
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -21,17 +19,8 @@
                 android:value="com.example.aplicativo.MainActivity" />
         </activity>
         <activity
-            android:name=".tela_cadastro_animal"
-            android:label="tela_cadastrar_animal"
-            android:parentActivityName=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.aplicativo.MainActivity" />
-        </activity>
-        <activity
             android:name=".MainActivity"
-            android:label="TESTE_NOME"
+            android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,6 +28,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="Login do Sistema"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>
