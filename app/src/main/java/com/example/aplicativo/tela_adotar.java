@@ -1,5 +1,6 @@
 package com.example.aplicativo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -32,13 +33,14 @@ public class tela_adotar extends AppCompatActivity {
 
         Button btn_cadastrar_animal = (Button) findViewById(R.id.botao_cadastrar);
 
-        btn_cadastrar_animal.setOnClickListener(R.id.botao_cadastrar){
+        /*btn_cadastrar_animal.setOnClickListener(R.id.botao_cadastrar){
 
         public void onClick (View v) {
                 Intent it = new  Intent (MainActivity, tela_cadastro_animal);
                 startActivity(it);
         }
-        }
+        }*/
+
     }
 
 }
